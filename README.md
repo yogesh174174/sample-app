@@ -1,3 +1,3 @@
 # Sample App
 
-A sample application to demo Azure DevOps integration with AKS and ACR
+This repo contains Kubernetes manifests for the sample application to demo Azure DevOps integration with AKS and ACR
